@@ -1,2 +1,2 @@
 # mvnproject
-# test 1.6
+# test 1.7
