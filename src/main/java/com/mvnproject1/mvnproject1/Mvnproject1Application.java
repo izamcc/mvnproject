@@ -1,4 +1,4 @@
-package com.mvnproject1.mvnproject1;
+package com.mvnproject.mvnproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,6 +12,6 @@ public class Mvnproject1Application {
 		SpringApplication.run(Mvnproject1Application.class, args);	}
 
 	@GetMapping
-	public String hello() { return "Hello There !!!";}
+	public String hello() { return "Hello There !!!!";}
 
 }
