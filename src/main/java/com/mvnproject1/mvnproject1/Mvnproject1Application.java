@@ -1,4 +1,4 @@
-package com.mvnproject.mvnproject;
+package com.mvnproject1.mvnproject1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
