@@ -12,6 +12,6 @@ public class Mvnproject1Application {
 		SpringApplication.run(Mvnproject1Application.class, args);	}
 
 	@GetMapping
-	public String hello() { return "Hello There !!!!";}
+	public String hello() { return "ZAIN KSA !!! ";}
 
 }
